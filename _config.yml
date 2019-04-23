@@ -29,11 +29,19 @@ projects:
 
 social_media:
   # behance: your_username
-  facebook: iru0y
   # dribbble: your_username
+  facebook: iru0y
+  # hackerrank: your_username
+  instagram: _youri
+  keybase: iruoy
   linkedin: iruoy
+  # medium: your_username
   stackoverflow: 5929249
+  # telegram: your_username
   twitter: _iruoy
+  # unsplash: your_username
+  # vk: your_username
+  website: https://iruoy.github.io
   # youtube: your_username
 
 topics:
